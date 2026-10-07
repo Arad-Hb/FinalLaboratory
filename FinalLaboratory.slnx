@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="Application/Application.csproj" />
+  <Project Path="ApplicationService/ApplicationService.csproj" />
+  <Project Path="DomainModel/DomainModel.csproj" />
+  <Project Path="FinalLaboratory/FinalLaboratory.csproj" />
+  <Project Path="Framework/Framework.csproj" />
+  <Project Path="InfrastructureEfCorePersistance/InfrastructureEfCorePersistance.csproj" />
+  <Project Path="Security/Security.csproj" />
+</Solution>
